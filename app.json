@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Personal Notes",
+    "slug": "personal-notes",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#FFF8FA"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFF8FA"
+      }
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
